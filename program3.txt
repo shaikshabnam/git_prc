@@ -1,0 +1,6 @@
+Class{
+puvlic void hi()
+{
+system.out.println("hii");
+}
+}
